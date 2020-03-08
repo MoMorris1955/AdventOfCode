@@ -1,0 +1,9 @@
+C:\svn\MoAdventOfCode\MoAdventOfCode3\MoAdventOfCode3\bin\Debug\MoAdventOfCode3.exe.config
+C:\svn\MoAdventOfCode\MoAdventOfCode3\MoAdventOfCode3\bin\Debug\MoAdventOfCode3.exe
+C:\svn\MoAdventOfCode\MoAdventOfCode3\MoAdventOfCode3\bin\Debug\MoAdventOfCode3.pdb
+C:\svn\MoAdventOfCode\MoAdventOfCode3\MoAdventOfCode3\obj\Debug\MoAdventOfCode3.csprojResolveAssemblyReference.cache
+C:\svn\MoAdventOfCode\MoAdventOfCode3\MoAdventOfCode3\obj\Debug\MoAdventOfCode3.MoAdventOfCode3.resources
+C:\svn\MoAdventOfCode\MoAdventOfCode3\MoAdventOfCode3\obj\Debug\MoAdventOfCode3.Properties.Resources.resources
+C:\svn\MoAdventOfCode\MoAdventOfCode3\MoAdventOfCode3\obj\Debug\MoAdventOfCode3.csproj.GenerateResource.Cache
+C:\svn\MoAdventOfCode\MoAdventOfCode3\MoAdventOfCode3\obj\Debug\MoAdventOfCode3.exe
+C:\svn\MoAdventOfCode\MoAdventOfCode3\MoAdventOfCode3\obj\Debug\MoAdventOfCode3.pdb
